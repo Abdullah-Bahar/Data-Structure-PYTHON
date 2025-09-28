@@ -1,6 +1,6 @@
 """
 	Bir dosyayi import edebilmek icin
-	import edilecek dosyanin asdina dikkat edilmesi gerek
+	import edilecek dosyanin adina dikkat edilmesi gerek
 	harf veya '_' ile baslamali
 	bunlar disinda bir isimlendirm ekullanilirsa import etme konusunda bir sorun yasanabilir
 """
